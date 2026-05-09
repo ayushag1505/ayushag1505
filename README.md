@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Agrawal</h1>
-<h3 align="center">Programmer and Full Stack Developer</h3>
+<h3 align="center">Data Engineer and Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFaB0ShSgUdZin7GjHcAH6mpGMrfpCOR1DfA&usqp=CAU">
 
@@ -7,7 +7,7 @@
 
 - 🕶️ Pronouns: <strong>He/Him</strong>
 
-- 🌱 I’m currently learning **DSA, Full Stack Development**
+- 🌱 I’m currently **Data Engineer and Analyst**
 
 - 📫 How to reach me **ayushwork1505@gmail.com**
 
